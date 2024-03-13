@@ -35,8 +35,10 @@ You can access the website [here](https://erp-system-abhishek.vercel.app/).
 - Each product row has options to edit or delete the product.
 - You can add new products using a form, ensuring all fields are filled out.
 - ![Screenshot (256)](https://github.com/Abhishekve-003/ERP-System/assets/125495260/2c3878a6-9582-4c2c-8316-e8931de5ebaa)
-- ![Screenshot (261)](https://github.com/Abhishekve-003/ERP-System/assets/125495260/e15dcf76-2b84-4ca6-ba5d-d9d001b66575)
+- ![Screenshot (257)](https://github.com/Abhishekve-003/ERP-System/assets/125495260/3ff5ac67-9bab-4260-b772-9c2d56970c64)
 - ![Screenshot (261)](https://github.com/Abhishekve-003/ERP-System/assets/125495260/a1e605d1-eccb-4698-92ec-545e6d500f67)
+
+
 
 
 
