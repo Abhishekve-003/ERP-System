@@ -61,7 +61,9 @@ You can access the website [here](https://erp-system-abhishek.vercel.app/).
 
 ## Contact
 
-If you have any questions or feedback, you can reach out to us at LikedIn : https://www.linkedin.com/in/abhishekverma001/.
+If you have any questions or feedback, you can reach out to us at 
+Email address : abhishekve0010@gmail.com
+LikedIn : https://www.linkedin.com/in/abhishekverma001/.
 We'd love to hear from you!
 
 Thank you for Visiting our ERP website!
