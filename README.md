@@ -15,7 +15,6 @@ You can access the website [here](https://erp-system-abhishek.vercel.app/).
 ### Dashboard
 - The dashboard displays key information like total sales, total products, total customers, and charts showing orders in the last week.
 - You can navigate to order and product management pages directly from the dashboard.
-(https://github.com/Abhishekve-003/ERP-System/assets/125495260/b13a5d64-bcf2-4a38-ad20-881194d96496)
 ![Screenshot (246)](https://github.com/Abhishekve-003/ERP-System/assets/125495260/fb57526d-7afd-4f12-871b-3430027c62aa)
 
 ### Navbar
@@ -65,4 +64,4 @@ You can access the website [here](https://erp-system-abhishek.vercel.app/).
 If you have any questions or feedback, you can reach out to us at LikedIn : https://www.linkedin.com/in/abhishekverma001/.
 We'd love to hear from you!
 
-Thank you for using our ERP System website!
+Thank you for Visiting our ERP website!
