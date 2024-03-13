@@ -15,13 +15,15 @@ You can access the website [here](https://erp-system-abhishek.vercel.app/).
 ### Dashboard
 - The dashboard displays key information like total sales, total products, total customers, and charts showing orders in the last week.
 - You can navigate to order and product management pages directly from the dashboard.
+(https://github.com/Abhishekve-003/ERP-System/assets/125495260/b13a5d64-bcf2-4a38-ad20-881194d96496)
 
 ### Navbar
 - The navbar contains buttons with icons for easy navigation.
 - A drawer can be opened or closed to access more options.
 
 ### Order Management
-- View orders in a table with details like order ID, customer name, order date, and status (pending, success, or cancelled).
+- View orders in a table wi![Screenshot (246)]
+th details like order ID, customer name, order date, and status (pending, success, or cancelled).
 - Each row has actions like viewing details, updating status, and deleting orders.
 - You can update the status of an order from a form that opens when you click "View Details".
 
