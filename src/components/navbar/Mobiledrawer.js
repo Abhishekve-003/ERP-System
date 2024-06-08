@@ -36,7 +36,7 @@ export default function SearchAppBar() {
             component="div"
             sx={{ flexGrow: 1,  }}
           >
-            ENTNT ERP
+            ERP SYSTEM
           </Typography>
         </Toolbar>
       </AppBar>
