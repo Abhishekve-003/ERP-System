@@ -89,7 +89,7 @@ export default function Desktopdrawer({ children }) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            ENTNT ERP
+            ERP SYSTEM
           </Typography>
         </Toolbar>
       </AppBar>
